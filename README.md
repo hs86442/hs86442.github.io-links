@@ -1,5 +1,5 @@
 [Go Back](https://hs86442.github.io/)
-
+# |
 ## Website 
 # |
 <!DOCTYPE html>
@@ -22,6 +22,7 @@
   </body>
 </html>
 
+# |
 ## Buttons
 # |
 <title>buttons are here</title>
@@ -111,6 +112,7 @@
   Tweet
 </button>
 
+# |
 ## Text
 # |
 <title>titles are defintately not here</title>
