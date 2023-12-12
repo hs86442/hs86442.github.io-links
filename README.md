@@ -1,6 +1,9 @@
 [Go Back](https://hs86442.github.io/)
 
 ## Website 
+# 
+# 
+# 
 <!DOCTYPE html>
 <html>
   <head>
@@ -22,7 +25,9 @@
 </html>
 
 ## Buttons
-
+# 
+# 
+# 
 <title>buttons are here</title>
 <style>
   .subscribe-button {
@@ -111,6 +116,9 @@
 </button>
 
 ## Text
+# 
+# 
+# 
 <title>titles are defintately not here</title>
 <style>
     p {
