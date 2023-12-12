@@ -21,7 +21,7 @@
     </a>
   </body>
 </html>
-# |
+
 ## Buttons
 # |
 <title>buttons are here</title>
@@ -110,7 +110,7 @@
 <button class="tweet-button">
   Tweet
 </button>
-# |
+
 ## Text
 # |
 <title>titles are defintately not here</title>
