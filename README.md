@@ -111,7 +111,3 @@
 </button>
 
 ## Text Doesnt Work
-  
-  <p>
-    Shop early for the <strong>best selection</strong> of <u>holiday</u> favourites. <span class="span-example">Shop now</span>
-  </p>
